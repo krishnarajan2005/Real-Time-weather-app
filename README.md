@@ -47,7 +47,7 @@ const apiKey = "YOUR_API_KEY"; // Replace this
 # Weather for custom location
 <img width="1897" height="856" alt="image" src="https://github.com/user-attachments/assets/5e1bcaae-c2f1-4194-8eda-2ea719bd8449" />
 
-Made with ❤️ by Deepakraj
+Made with ❤️ by Krishnarajan 
 ---
 Let me know if you'd like this README to include deployment instructions (e.g., GitHub Pages) or badges (like stars/forks).
 
